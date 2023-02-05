@@ -8,8 +8,6 @@ import processing.core.*; // import the base Processing library
 import processing.sound.*; // import the processing sound library
 
 /**
- * Describe your game succinctly here, and update the author info below.
- * Some starter code has been included for your reference - feel free to delete or modify it.
  * 
  * @author Corina Luca
  * @version 0.3
