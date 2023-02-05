@@ -1,4 +1,4 @@
-# Ping-Pong-for-One-User
+# Single User Ping Pong
 
 # Summary
 Used Object Oriented Principles to create a Ping Pong game for a single user with 2 balls. One ball will randomly change colors and speed every time the game is played.
